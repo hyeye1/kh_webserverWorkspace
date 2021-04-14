@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>어서와 Web은 처음이지?</h1>
+	
+	<h2> * Servlet</h2>
+	<p>
+		서블릿이란? <br>
+		웹 서비스를 위한 "자바클래스"를 말하며 자바를 이용해서 웹을 만들기 위해 필요한 기술이다. <br>
+		>> 사용자의 요청을 받아 처리하고 그에 해당하는 응답페이지를 만들어 다시 사용자에게 전송하는 역할을 하는 자바클래스(Controller단)<br>
+		>> 즉, Java로 동적인 페이지(html)를 구현할 수 있도록 도와주는 서버측 프로그램 (WAS서버에 의해서 구동됨)
+	</p>
+	<!-- 
+		Java 클래스에서 웹페이지 구현을 위한 HTML이 들어간 구조라고 할 수 있음 (Java코드로 HTML 구현)
+		단, Servlet(Java)에 작성된 HTML 변경시 자바코드를 수정한 셈이기 때문에
+		수정된 재반영 시키고자 한다면 서버를 재실행 해야만 함!
+	 -->
+	 
+	 <a href="views/requestTest_GET.html">Servlet-GET방식</a>
+	 <a href="
+	
+	
+	
+</body>
+</html>
