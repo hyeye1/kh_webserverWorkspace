@@ -72,7 +72,7 @@ public class RequestPostServlet extends HttpServlet {
 		// 응답할 뷰 jsp 선택
 		RequestDispatcher view = request.getRequestDispatcher("views/responsePage.jsp");
 		view.forward(request, response);
-		 
+		
 		
 		
 	}
